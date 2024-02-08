@@ -4,8 +4,6 @@
 
 <p align="center">
 • <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-demonstra%C3%A7%C3%A3o">Demonstração</a> • 
- <a href="#-tecnologias">Tecnologias</a> •
  <a href="#%EF%B8%8F-autora">Autora</a> •
 </p>
 
